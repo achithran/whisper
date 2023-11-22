@@ -6,6 +6,8 @@ function multiplyByTwo($number) {
 
 $number = 5;
 echo multiplyByTwo($number);
+
+// aded new branch arun
 ?>
 
 
